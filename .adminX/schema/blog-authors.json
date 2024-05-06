@@ -1,0 +1,47 @@
+{
+  "file": "content/blog-authors/statichunt.md",
+  "name": "blog-authors",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "label": "Title",
+      "name": "title",
+      "type": "string",
+      "value": "",
+      "description": "this is title",
+      "isRequired": true
+    },
+    {
+      "label": "Email",
+      "name": "email",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Description",
+      "name": "description",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Social",
+      "name": "social",
+      "type": "object",
+      "fields": [
+        {
+          "label": "Twitter",
+          "name": "twitter",
+          "type": "string",
+          "value": ""
+        },
+        {
+          "label": "Github",
+          "name": "github",
+          "type": "string",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}
