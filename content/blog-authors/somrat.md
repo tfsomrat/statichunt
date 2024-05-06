@@ -1,8 +1,9 @@
 ---
 title: Somrat
-email: ''
+email: themefisher.dev@gmail.com
 description: ''
 social:
   - twitter: ''
     github: ''
 ---
+
