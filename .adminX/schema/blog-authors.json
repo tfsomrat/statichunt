@@ -16,7 +16,8 @@
       "label": "Email",
       "name": "email",
       "type": "string",
-      "value": ""
+      "value": "",
+      "description": "this is meta description"
     },
     {
       "label": "Description",
