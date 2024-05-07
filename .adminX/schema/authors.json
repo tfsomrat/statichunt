@@ -1,0 +1,46 @@
+{
+  "file": "content/authors/_template.md",
+  "name": "authors",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "label": "Title",
+      "name": "title",
+      "type": "string",
+      "value": "",
+      "description": "this is title",
+      "isRequired": true
+    },
+    {
+      "label": "Email",
+      "name": "email",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Website",
+      "name": "website",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Twitter",
+      "name": "twitter",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Github",
+      "name": "github",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Description",
+      "name": "description",
+      "type": "string",
+      "value": ""
+    }
+  ]
+}
