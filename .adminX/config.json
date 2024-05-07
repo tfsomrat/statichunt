@@ -41,6 +41,22 @@
         "include": "",
         "exclude": "_index.md, _template.md"
       }
+    },
+    "Tools": {
+      "type": "heading",
+      "weight": 6
+    },
+    "content/tools/_index.md": {
+      "Tool Index": {
+        "weight": 7
+      }
+    },
+    "content/tools": {
+      "Tools": {
+        "weight": 8,
+        "include": "",
+        "exclude": "_index.md, _template.md"
+      }
     }
   }
 }
