@@ -9,5 +9,22 @@
   "themeConfig": [
     "config"
   ],
-  "arrangement": {}
+  "arrangement": {
+    "Blog": {
+      "type": "heading",
+      "weight": 0
+    },
+    "content/blog/_index.md": {
+      "Blog Index": {
+        "weight": 1
+      }
+    },
+    "content/blog": {
+      "Posts": {
+        "weight": 2,
+        "include": "",
+        "exclude": "_index.md, _template.md"
+      }
+    }
+  }
 }
