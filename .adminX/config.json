@@ -25,6 +25,22 @@
         "include": "",
         "exclude": "_index.md, _template.md"
       }
+    },
+    "Themes": {
+      "type": "heading",
+      "weight": 3
+    },
+    "content/themes/_index.md": {
+      "Theme Index": {
+        "weight": 4
+      }
+    },
+    "content/themes": {
+      "Themes": {
+        "weight": 5,
+        "include": "",
+        "exclude": "_index.md, _template.md"
+      }
     }
   }
 }
