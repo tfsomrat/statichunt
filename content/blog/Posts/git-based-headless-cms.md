@@ -18,4 +18,4 @@ draft: false
 
 <Button href="https://tina.io/" >Learn More </Button>
 <Mockup src="/blog/tina-cms.png" alt="Tina headless cms" />
-<Mockup src="/blog/hell.png" alt="hell" />
+hello world
