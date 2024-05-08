@@ -13,6 +13,10 @@ sponsored: false
 draft: false
 ---
 
+<Butt href="https://tina.io/" >Learn More </Butt>
+<Button href="https://tina.io/" >Learn More </Button>
+<Test href="https://tina.io/" >Learn More </Test>
+
 <a href="/blog/static-site-generators" target="_blank"> Static site generators </a> are getting more popular, but there's a catch: they don't have a built-in system for managing content. This makes it tricky for editors to update the website easily.
 
 But what if there was a way to combine the speed and security of static sites with a user-friendly editing experience? That's where Git-based headless CMS comes in. It's a new system that lets developers manage content with code, while editors can use a simple interface to update the website.
@@ -61,7 +65,6 @@ TinaCMS is a free and open-source headless CMS focused on providing the best dev
 - Customizable editing
 - Access control
 
-<Butt href="https://tina.io/" >Learn More </Butt>
 
 ### Decap CMS (formerly Netlify CMS)
 
