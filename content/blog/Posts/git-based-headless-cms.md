@@ -16,6 +16,4 @@ sponsored: false
 draft: false
 ---
 
-<Button href="https://tina.io/" >Learn More </Button>
-<Mockup src="/blog/tina-cms.png" alt="Tina headless cms" />
 hello world
