@@ -61,7 +61,7 @@ TinaCMS is a free and open-source headless CMS focused on providing the best dev
 - Customizable editing
 - Access control
 
-<Button href="https://tina.io/" >Learn More </Button>
+<Butt href="https://tina.io/" >Learn More </Butt>
 
 ### Decap CMS (formerly Netlify CMS)
 
