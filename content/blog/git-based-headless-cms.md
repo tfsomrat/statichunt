@@ -12,8 +12,8 @@ authors:
 categories:
   - static site generators
   - headless cms
-sponsored: false
-draft: false
+sponsored: true
+draft: true
 ---
 
 <Button href="https://tina.io/" >Learn More </Button>
