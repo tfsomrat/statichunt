@@ -23,7 +23,7 @@
       "Posts": {
         "weight": 2,
         "include": "",
-        "exclude": "_index.md,_template.md"
+        "exclude": "_index.md, _template.md"
       }
     },
     "Themes": {
