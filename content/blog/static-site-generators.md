@@ -15,6 +15,7 @@ sponsored: false
 draft: false
 ---
 
-Astro is an all-in-one static site generator that is gaining popularity among web developers due to its flexibility and ease of use. It provides a modern and intuitive development experience with its built-in support for React, Vue, and Svelte, which allows you to write your components with the framework you prefer.
+Astro is an all-in-one static site generator that is gaining popularity among web developers due to its flexibility and ease of use. It provides a modern and intuitive development experience with its built-in support for React.
+
 <Mockup src="/blog/astro.png" alt="astro ssg" />
 <Button href="https://astro.build/" >Visit Website </Button>
